@@ -11,8 +11,8 @@
   
   
 ## Screenshots
-![Screenshot 1](./Images/Screenshot (182).png)
-![Screenshot 2](./Images/Screenshot (183).png)
-![Screenshot 3](./Images/Screenshot (184).png)
+![Screenshot 1](./Images/1.png)
+![Screenshot 2](./Images/2.png)
+![Screenshot 3](./Images/3.png)
 
 ### Created By- Ankit Raj
